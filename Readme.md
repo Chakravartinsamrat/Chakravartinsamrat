@@ -5,9 +5,9 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=chakravartinsammrat&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Chakravartinsamrat&theme=merko&hide_border=true&card_width=550" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chakravartinsamrat&theme=merko&hide_border=true&card_width=550" alt="GitHub Streak" /></a>
 </td>
 
 <td width="50%" align="center">
