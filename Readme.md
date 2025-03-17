@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chakravartinsamrat&show_icons=true&locale=en&layout=compact" alt="chakravartinsamrat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chakravartinsamrat&" alt="chakravartinsamrat" /></p>
+
