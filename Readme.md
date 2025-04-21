@@ -32,7 +32,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
   <h3 align="left">Tools </h3>
-  <!-- Data Tools -->
+  <h5 align="left">Data Tools</h5>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
   </a>
@@ -47,6 +47,7 @@
   </a>
   
   <!-- Development Frameworks -->
+  <h5 align="left">Development Frameworks</h5>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
@@ -61,6 +62,7 @@
   </a>
   
   <!-- ML/AI Tools -->
+  <h5 align="left">ML/AI Tools</h5>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   </a>
@@ -72,6 +74,7 @@
   </a>
   
   <!-- DevOps -->
+  <h5 align="left">DevOps</h5>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
