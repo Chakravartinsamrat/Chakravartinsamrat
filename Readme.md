@@ -16,5 +16,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chakravartinsamrat&show_icons=true&locale=en&layout=compact" alt="chakravartinsamrat" /></p>
 
 
-### Code Quest is now in Pre Production
+### Code Quest is now Deployed
 ### Try it out at: https://dsa-dragon.vercel.app/
