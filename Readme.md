@@ -2,13 +2,13 @@
 <h3 align="center">Master of None</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chakravartinsamrat&label=Profile%20views&color=0e75b6&style=flat" alt="chakravartinsamrat" /> </p>
-
-- Reach me out **piyushchakarborthy@gmail.com**
-
 <h3 align="left">Reach me Out via </h3>
+- **piyushchakarborthy@gmail.com**
+
+
 <p align="left">
 <a href="https://www.leetcode.com/chakravartinsamrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chakravartinsamrat" height="30" width="40" /></a>
-- Reach me out **piyushchakarborthy@gmail.com**
+
 </p>
 
 <h3 align="left">Languages </h3>
