@@ -90,4 +90,4 @@
 
 
 ### Code Quest is now Deployed
-### Try it out at: https://dsa-dragon.vercel.app/
+### Try it out at: https://fontend-codequest.vercel.app/
