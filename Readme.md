@@ -1,9 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=120&section=header"/>
-
-# 💫 About Me:
-I have a normal screen time of 12hrs
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=120&section=footer"/>
-
+### I'm Jamming to
+<p align="left">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31bi3uphf7migtusbkkvkmccvsjy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bi3uphf7migtusbkkvkmccvsjy&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+  </a>
+</p>
